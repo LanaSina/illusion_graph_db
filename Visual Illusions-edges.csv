@@ -1,0 +1,26 @@
+From Type,From Name,Edge,To Type,To Name,Weight
+Solid Expansion,Expanding black holes,same shape,Inset,Out of Focus,1
+Solid Expansion,Expanding black holes,same color,Inset,Out of Focus,1
+Solid Expansion,Expanding black holes,same color,Color motion,Rotating snakes: a gray scale version,1
+Inset,Out of Focus,same color,Color motion,Rotating snakes: a gray scale version,1
+Squares and dots,Trampoline,same color,Color motion,Rotating snakes: a gray scale version,1
+Color motion,A through,same shape,Color motion,Heat devil #6,1
+Color motion,Rotating Snakes,same color,Color motion,Heat devil #6,1
+Color motion,Heat devil #6,same pattern,Color motion,Dorayaki,1
+Color motion,A through,same pattern,Color motion,Dorayaki,1
+Color motion,Roller,same pattern,Color motion,Dorayaki,1
+Solid Expansion,Expanding black holes,same color,Squares and dots,Trampoline,1
+Inset,Out of Focus,same color,Squares and dots,Trampoline,1
+Squares and dots,Watashi,same pattern,Squares and dots,Trampoline,1
+Squares and dots,Trampoline,same pattern,Squares and dots,Makudonarudo,1
+Squares and dots,Watashi,same pattern,Squares and dots,Makudonarudo,1
+Gradient,Blue train 2021,same color,Squares and dots,Watashi,1
+Color motion,A through,same pattern,Color motion,Roller,1
+Color motion,A through,same shape,Color motion,Roller,1
+Color motion,Rotating Snakes,same pattern,Color motion,Roller,1
+Color motion,Rotating Snakes,same color,Color motion,Roller,1
+Color motion,Rotating snakes: a gray scale version,same shape,Color motion,Rotating Snakes,1
+Color motion,Heat devil #6,same pattern,Color motion,Rotating Snakes,1
+Gradient,Motion of snakes 2021,same pattern,Color motion,Rotating Snakes,1
+Gradient,Motion of snakes 2021,same pattern,Gradient,Blue train 2021,1
+Gradient,Motion of snakes 2021,same shape,Gradient,Blue train 2021,1
