@@ -21,3 +21,31 @@ Create a pull request to this repository and I'll merge it!
 ### Edit csv directly
 
 I wouldn't recommend it as you risk breaking the formatting or forgetting to add some properties, but you can always give it a try.
+
+## Documentation
+
+### Node types
+The nodes are loosely classified by type of illusion. The current types are:
+- Munker Illusion
+- Solid Expansion
+- Inset
+- Gradient
+- Squares and dots
+- Color motion
+
+### Edge types
+The nodes are linked by similarity. The current types of edges are:
+- Same color (uses the same color palette)
+- Same shape (eg, concentric circles, columns, squares...)
+- Same pattern (this is very similar to the "node types")
+
+### Images
+Graphcommons will ignore images that are too big. I don't know what is the maximum size, so I use the address of the tiny image thumbnail returned by Google reverse image search.
+
+### Reference
+Links to where the illusion was first published by its author. This is where people can see the full size illusion, or movie, gif etc. You can also add journal publications etc.
+
+## FAQ
+
+### Can I add any kind of illusion?
+Sure, why not? The main requirement is that you properly credit the authors. Find who really created the illusion!
