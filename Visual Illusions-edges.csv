@@ -1,7 +1,15 @@
 From Type,From Name,Edge,To Type,To Name,Weight
+Phantom Curved Lines,Illusory rectangles demo,same pattern,Phantom Curved Lines,Illusory rectangles,1
+False Spiral,Black And White Spirals,same pattern,False Spiral,Colorful Spirals,1
+Phantom Curved Lines,Illusory rectangles demo,same pattern,Phantom Curved Lines,Pink Knots,1
+Phantom Curved Lines,Illusory rectangles,same pattern,Phantom Curved Lines,Pink Knots,1
+Hermann grid,Hermann grid,same pattern,Phantom Curved Lines,Separated Lines,1
+Phantom Curved Lines,Pink Knots,same pattern,Phantom Curved Lines,Separated Lines,1
+Phantom Curved Lines,Separated Lines,same pattern,Phantom Curved Lines,Cobbles,1
 Munker Illusion,Confetti illusion,same pattern,Munker Illusion,Munker Hearts,1
 Solid Expansion,Expanding black holes,same shape,Inset,Out of Focus,1
 Solid Expansion,Expanding black holes,same color,Inset,Out of Focus,1
+False Spiral,Black And White Spirals,same color,Color motion,Rotating snakes: a gray scale version,1
 Solid Expansion,Expanding black holes,same color,Color motion,Rotating snakes: a gray scale version,1
 Inset,Out of Focus,same color,Color motion,Rotating snakes: a gray scale version,1
 Squares and dots,Trampoline,same color,Color motion,Rotating snakes: a gray scale version,1
@@ -9,17 +17,18 @@ Color motion,A through,same shape,Color motion,Heat devil #6,1
 Color motion,Rotating Snakes,same color,Color motion,Heat devil #6,1
 Color motion,Heat devil #6,same pattern,Color motion,Dorayaki,1
 Color motion,A through,same pattern,Color motion,Dorayaki,1
-Color motion,Roller,same pattern,Color motion,Dorayaki,1
+Color motion,Rollers,same pattern,Color motion,Dorayaki,1
+Hermann grid,Hermann grid,same color,Squares and dots,Trampoline,1
 Solid Expansion,Expanding black holes,same color,Squares and dots,Trampoline,1
 Inset,Out of Focus,same color,Squares and dots,Trampoline,1
 Squares and dots,Watashi,same pattern,Squares and dots,Trampoline,1
 Squares and dots,Trampoline,same pattern,Squares and dots,Makudonarudo,1
 Squares and dots,Watashi,same pattern,Squares and dots,Makudonarudo,1
 Gradient,Blue train 2021,same color,Squares and dots,Watashi,1
-Color motion,A through,same pattern,Color motion,Roller,1
-Color motion,A through,same shape,Color motion,Roller,1
-Color motion,Rotating Snakes,same pattern,Color motion,Roller,1
-Color motion,Rotating Snakes,same color,Color motion,Roller,1
+Color motion,A through,same pattern,Color motion,Rollers,1
+Color motion,A through,same shape,Color motion,Rollers,1
+Color motion,Rotating Snakes,same pattern,Color motion,Rollers,1
+Color motion,Rotating Snakes,same color,Color motion,Rollers,1
 Color motion,Rotating snakes: a gray scale version,same shape,Color motion,Rotating Snakes,1
 Color motion,Heat devil #6,same pattern,Color motion,Rotating Snakes,1
 Gradient,Motion of snakes 2021,same pattern,Color motion,Rotating Snakes,1
